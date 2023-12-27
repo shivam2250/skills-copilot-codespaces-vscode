@@ -1,0 +1,22 @@
+function skillsMember() {
+    var skills = document.getElementById("skills");
+    var member = document.getElementById("member");
+    var memberName = document.getElementById("memberName");
+    var memberNameValue = memberName.value;
+    var memberNameValueLength = memberNameValue.length;
+    var memberNameValueLengthMax = memberName.maxLength;
+    var memberNameValueLengthMin = memberName.minLength;
+    var memberNameValueLengthMaxMin = memberNameValueLengthMax - memberNameValueLengthMin;
+    var memberNameValueLengthMaxMinValue = memberNameValueLengthMaxMin - memberNameValueLength;
+    var memberNameValueLengthMaxMinValueLength = memberNameValueLengthMaxMinValue.length;
+    var memberNameValueLengthMaxMinValueLengthMax = memberNameValueLengthMaxMinValueLength.maxLength;
+    var memberNameValueLengthMaxMinValueLengthMin = memberNameValueLengthMaxMinValueLength.minLength;
+    var memberNameValueLengthMaxMinValueLengthMaxMin = memberNameValueLengthMaxMinValueLengthMax - memberNameValueLengthMaxMinValueLengthMin;
+    var memberNameValueLengthMaxMinValueLengthMaxMinValue = memberNameValueLengthMaxMinValueLengthMaxMin - memberNameValueLengthMaxMinValueLength;
+    var memberNameValueLengthMaxMinValueLengthMaxMinValueLength = memberNameValueLengthMaxMinValueLengthMaxMinValue.length;
+    var memberNameValueLengthMaxMinValueLengthMaxMinValueLengthMax = memberNameValueLengthMaxMinValueLengthMaxMinValueLength.maxLength;
+    var memberNameValueLengthMaxMinValueLengthMaxMinValueLengthMin = memberNameValueLengthMaxMinValueLengthMaxMinValueLength.minLength;
+    var memberNameValueLengthMaxMinValueLengthMaxMinValueLengthMaxMin = memberNameValueLengthMaxMinValueLengthMaxMinValueLengthMax - memberNameValueLengthMaxMinValueLengthMaxMinValueLengthMin;
+    var memberNameValueLengthMaxMinValueLengthMaxMinValueLengthMaxMinValue = memberNameValueLengthMaxMinValueLengthMaxMinValueLengthMaxMin - memberNameValueLengthMaxMinValueLengthMaxMinValueLength;
+    var memberNameValueLengthMaxMinValueLengthMaxMinValueLengthMaxMinValueLength = memberNameValueLengthMaxMinValueLengthMaxMinValueLengthMaxMinValue.length;
+    var memberNameValueLengthMaxMinValueLengthMaxMinValueLengthMaxMinValueLengthMax = memberNameValueLengthMaxMinValueLengthMaxMinValueLengthMaxMin
